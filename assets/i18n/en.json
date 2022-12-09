@@ -2,6 +2,7 @@
   "General": {
     "LoginOrSignup": "Login / Signup",
     "NoData": "No Data",
+    "NoResultData": "There's no result",
     "NotLoggedIn": "You are not logged in",
     "PleaseLogin": "Please Login to view your bookings",
     "WishlistBrowse": "Browse to add properties in your wishlist",
@@ -19,7 +20,8 @@
     "LoginFirst": "Please login first",
     "SwitchToHosting": "Switch to hosting first",
     "NoListings": "You haven't published any property yet",
-    "NoNotifications": "You don't have any notifications"
+    "NoNotifications": "You don't have any notifications",
+    "EnableLocation": "Please enable location"
   },
   "StaticPages":{
     "termsAndConditions":"Terms And Conditions",
@@ -130,7 +132,11 @@
     "HappyCustomers": "Happy Customers",
     "Tutorial": "Tutorial",
     "StartDate": "Start Date",
-    "EndDate": "End Date"
+    "EndDate": "End Date",
+    "CheckIn": "Check In",
+    "CheckOut": "Check Out",
+    "AllCities": "All Cities",
+    "AllTypes": "All Types"
   },
   "Notifications": {
     "Notifications": "Notifications"
@@ -249,6 +255,9 @@
     "CreateListing": "Create Listing",
     "QuestionNotice":"Question notice",
     "PropertyName":"Property Name",
+    "GetCurrentLocation":"Get Current Location",
+    "AddLocationManually":"Add Location Manually",
+    "EnableLocationHint": "To get your current location please enable location",
     "Status":"Status",
     "Bedrooms":"Bedrooms",
     "Beds": "Beds",
@@ -286,6 +295,9 @@
     "Save": "Save",
     "LocalLawsAgree": "I agree to local laws",
     "Edit": "Edit",
+    "MinMaxError": "max stay value can't be more than min stay value",
+    "MinMaxValueError": "min stay value can't be 0 or more than 99 and max stay value can't be 0 or more than 100",
+    "NonFlexible": "Non Flexible",
     "PreviewListing": "Preview listing",
     "BeachHouse": "is this a beach house?",
     "StartCreateListing": "Let's set up your Listing",
@@ -474,13 +486,18 @@
     "NotSure": "Not sure yet",
     "PartTime": "Part-time",
     "AsPossible": "As often as possible",
-    "PublishSuccess": "Property Published successfully and waiting for approval"
+    "PublishSuccess": "Property Published successfully and waiting for approval",
+    "ReadyToPublish": "You are ready to publish!",
+    "ReadyToPublishText": "Roomz team will review your property details and will contact you at your email",
+    "PublishListing": "Publish",
+    "Bedroom": "Bedroom"
   },
   "PlaceDetails": {
     "BookingDetails": "Booking details",
     "Cleanness": "Cleanness",
     "Accuracy": "Accuracy Of Property Information",
     "Host":"Host",
+    "SquareM.": "Sq M.",
     "LeaveComment": "Leave a Comment",
     "Optional": "( Optional )",
     "Terrible": "Terrible",
