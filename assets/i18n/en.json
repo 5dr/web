@@ -24,7 +24,10 @@
     "NoListings": "You haven't published any property yet",
     "NoNotifications": "You don't have any notifications",
     "EnableLocation": "Please enable location",
-    "SayHi": "Say hi"
+    "SayHi": "Say hi",
+    "Address":"Address",
+    "Male":"Male",
+    "Female":"Female"
   },
   "StaticPages":{
     "termsAndConditions":"Terms And Conditions",
@@ -83,7 +86,17 @@
     "Booking": "Booking",
     "Coming": "Coming Bookings",
     "Ongoing": "Ongoing Bookings",
-    "Previous": "Previous Bookings"
+    "Previous": "Previous Bookings",
+    "Pending": "Pending Bookings",
+    "Review": "Pending Review Bookings",
+    "Cancelled":"Cancelled",
+    "help":"help?",
+    "SAR":"SAR",
+    "Amount:":"Amount Paid:",
+    "BookAgain":"Book Again",
+    "ChatHost":"Chat with Host",
+    "LeaveReview":"Leave a Review",
+    "guests":"guests"
   },
   "Navbar": {
     "Home": "Home",
@@ -173,6 +186,8 @@
     "LeaveReview": "Leave Review",
     "Back": "Back",
     "Cancel":"Cancel",
+    "Accept": "Accept",
+    "Reject": "Reject",
     "ConfirmBtn": "Confirm",
     "Date": "Date",
     "SelectDate": "Select Date",
@@ -187,17 +202,54 @@
     "Confirm": "Confirm & Pay",
     "LearnMore": "Learn More",
     "PriceDetails": "Price Details",
-    "Total": "Total"
+    "Total": "Total",
+    "Accepted":"Accepted",
+    "Rejected":"Rejected",
+    "ReasonRefuse":"Reject Booking",
+    "Reason":"Reason"
   },
   "ReviewsPage": {
-    "Reviews": "All Reviews"
+    "Reviews": "All Reviews",
+    "review":"Review"
   },
   "Whishlist": {
     "whishlist": "Whishlist"
   },
   "Profile": {
     "ChangePassword": "Change Password",
-    "PersonalInfo": "Personal Info"
+    "PersonalInfo": "Personal Info",
+    "Password":"Password",
+    "Cancel":"Cancel",
+    "CurrentPassword":"Current Password",
+    "NewPassword":"New Password",
+    "ConfirmPassword":"Confirm Password",
+    "UpdatePassword":"Update Password",
+    "FirstName":"First Name",
+    "LastName":"Last Name",
+    "descName":"This is the name on your travel document, which could be a license or a passport.",
+    "Gender":"Gender",
+    "DateofBirth":"Date of Birth",
+    "EmailAddress":"Email Address",
+    "descEmail":"Use an address you’ll always have access to.",
+    "PhoneNumber":"Phone number",
+    "descPhone":"For notifications, reminders, and help logging in",
+    "EnterPhone":"Enter your phone number",
+    "Verify":"Verify",
+    "EmergencyContact":"Emergency Contact",
+    "descEmergency":"A trusted contact we can alert in an urgent situation.",
+    "Edit":"Edit",
+    "Name":"Name",
+    "Relationship":"Relationship",
+    "Add":"Add",
+    "Save":"Save",
+    "WhichDetails":"Which details can be edited?",
+    "descWhichDetails":"Details Roomz uses to verify your identity can’t be changed. Contact info and some personal details can be edited, but we may ask you to verify your identity the next time you book or create a listing.",
+    "WhatInfo":"What info is shared with others?",
+    "descWhatInfo":"Roomz only releases contact information for hosts and guests after a reservation is confirmed.",
+    "EnterCurrentPassword":"Enter Current Password",
+    "EnterNewPassword":"Enter New Password",
+    "EnterConfirmPassword":"Enter Confirm Password",
+    "reset":"Reset"
   },
   "AccountHost": {
     "Account": "Account",
@@ -223,7 +275,9 @@
     "Details": "Details",
     "ShowBookingDetails": "Show Booking Details",
     "HideBookingDetails": "Hide Booking Details",
-    "PaymentDetails": "Payment Details"
+    "PaymentDetails": "Payment Details",
+        "SAR":"SAR"
+
   },
   "Payment": {
     "PayoutMethods": "Payout Methods",
@@ -237,14 +291,39 @@
     "PlaceIBANNumber": "e.g. 123456789101112",
     "BankName": "Bank Name",
     "SelectBank": "Select Bank",
-    "Continue": "Continue"
+    "Continue": "Continue",
+    "Cardholder":"Cardholder's name",
+    "Credit":"Credit Card Number",
+    "Exp":"Exp. Date",
+    "CVV":"CVV",
+    "SAR":"SAR"
   },
   "ListingPage": {
     "Listing": "Listings",
     "CreateListing": "Create Listing",
     "BankName": "Bank Name",
     "SelectBank": "Select Bank",
-    "Continue": "Continue"
+    "Continue": "Continue",
+    "Upload":"Upload",
+    "SAR":"SAR",
+    "AddPictures":"Add pictures of the damaged part",
+    "InsuranceJustification":"Insurance justification",
+    "MaxAmount":"Max amount: SAR 500",
+    "ReleaseInsurance":"Release Insurance",
+    "ClaimInsurance":"Claim Insurance",
+    "Property":"Property: ",
+    "InsurancePrice":"Insurance price:",
+    "From":"From:",
+    "To":"To:",
+    "Details":"Details :",
+    "DescInsuranceOne":"This is a confirmation that",
+    "foryour":"for your",
+    "DescInsuranceTwo":"has checked out, please confirm to claim or release the insurance.",
+    "RoomsandBeds":"Rooms and Beds",
+    "Bedrooms":"Bedrooms",
+    "Beds":"Beds",
+    "Bathrooms":"Bathrooms",
+    "Amenities":"Amenities"
   },
   "Analytics": {
     "Analytics": "Analytics",
@@ -257,8 +336,14 @@
     "Yearly": "Yearly"
   },
   "CreateListing": {
+    "DeleteOldCover":"Delete Old Cover Photo",
+    "DeleteOldImg":"Delete Old Image",
+    "Actions":"Actions",
     "AboutProperty":"About Property",
     "CreateListing": "Create Listing",
+    "OnlyRules": "Rules",
+    "Details":"Details",
+    "PropertyAndGuests":"Property and Guests",
     "QuestionNotice":"Question notice",
     "PropertyName":"Property Name",
     "GetCurrentLocation":"Get Current Location",
@@ -371,34 +456,6 @@
     "ModeratePointTwo": "After that, cancel before check-in and get a 50% refund, minus the first night and service fee.",
     "Amenities": "What amenities will you offer?",
     "DescAmenities": "You will be able to add more amenities after you publish your listing.",
-    "Wifi": "Wifi",
-    "DescWifi": "Available throughout the listing",
-    "TV": "TV",
-    "HotWater": "Hot Water",
-    "AirConditioning": "Air Conditioning",
-    "Sampoo": "Sampoo",
-    "HairDryer": "Hair Dryer",
-    "DedicatedWorkspace": "Dedicated Workspace",
-    "CookingBasics": "Cooking Basics",
-    "DescCookingBasics": "Pots and pans, oil, salt and pepper",
-    "HandSoap": "Hand Soap",
-    "BedLinens": "Bed Linens",
-    "Fireplace": "Fireplace",
-    "PrivateEntrance": "Private Entrance",
-    "BathroomEssentials": "Bathroom Essentials",
-    "DescBathroomEssentials": "Bathroom Essentials",
-    "BathTowel": "Bath Towel",
-    "ToiletPaper": "Toilet Paper",
-    "BodySoap": "Body Soap",
-    "Spaces": "Spaces",
-    "GardenOrBackyard": "Garden or backyard",
-    "FreeParking": "Free parking on premises",
-    "Washer": "Washer",
-    "HotTub": "Hot Tub",
-    "Pool": "Pool",
-    "PaidParking": "Paid Parking off premises",
-    "SafetyAmenities": "Safety amenities",
-    "SmokeAlarm": "Smoke alarm",
     "DescSmokeAlarm": "Check your local laws, which may require a working smoke detector in every room",
     "CarbonAlarm": "Carbon monoxide alarm",
     "DescCarbonAlarm": "Check your local laws, which may require a working carbon monoxide detector in every room",
@@ -496,7 +553,9 @@
     "ReadyToPublish": "You are ready to publish!",
     "ReadyToPublishText": "Roomz team will review your property details and will contact you at your email",
     "PublishListing": "Publish",
-    "Bedroom": "Bedroom"
+    "Bedroom": "Bedroom",
+    "Upload":"Upload",
+    "SAR":"SAR"
   },
   "PlaceDetails": {
     "BookingDetails": "Booking details",
@@ -509,6 +568,8 @@
     "Terrible": "Terrible",
     "Square": "Square M",
     "Booked": "Booked Now",
+    "NormalDays": "Normal Days",
+    "WeekendDays": "Weekend Days",
     "Bad": "Bad",
     "Normal": "Normal",
     "Good": "Good",
@@ -536,6 +597,8 @@
     "Insurance": "Insurance",
     "TotalPrice": "Total price",
     "Traveller":"Traveller",
-    "Hello": "Hello"
+    "Hello": "Hello",
+    "SAR":"SAR"
+
   }
 }
