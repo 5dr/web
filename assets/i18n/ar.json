@@ -329,6 +329,10 @@
     "Yearly": "سنوي"
   },
   "CreateListing": {
+    "WeekendOffer": "سعر عرض الأجازات",
+    "SpecificDatesPrice": "أسعار الايام الخاصة",
+    "BasePrice": "سعر الليلة الأساسى",
+    "DisableSpecificDate": "عند التعطيل سيتم حذف جميع التواريخ إن وجدت",
     "AboutProperty": "حول العقار",
     "CreateListing": "انشاء وحدة",
     "QuestionNotice": "سؤال أشعار",

@@ -149,8 +149,8 @@
     "Tutorial": "Tutorial",
     "StartDate": "Start Date",
     "EndDate": "End Date",
-    "CheckIn": "Check In",
-    "CheckOut": "Check Out",
+    "CheckIn": "Ch.In",
+    "CheckOut": "Ch.Out",
     "AllCities": "All Cities",
     "AllTypes": "All Types"
   },
@@ -335,6 +335,10 @@
     "Yearly": "Yearly"
   },
   "CreateListing": {
+    "WeekendOffer": "Weekend Offer Price",
+    "SpecificDatesPrice": "Specific Dates Price",
+    "BasePrice": "Base Price",
+    "DisableSpecificDate": "By disabling all specific dates will be deleted if there are any",
     "DeleteOldCover": "Delete Old Cover Photo",
     "DeleteOldImg": "Delete Old Image",
     "Actions": "Actions",
