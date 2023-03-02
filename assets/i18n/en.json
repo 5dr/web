@@ -30,7 +30,8 @@
     "Female": "Female",
     "notFound": "PAGE NOT FOUND",
     "notFoundDesc": "Sorry, the page you're looking for doesn't exist. If you think something is broken, report a problem.",
-    "goHome": "GO TO HOME"
+    "goHome": "GO TO HOME",
+    "ID": "ID"
   },
   "StaticPages": {
     "termsAndConditions": "Terms And Conditions",
@@ -182,6 +183,7 @@
     "ShowAllReviews": "Show All Reviews"
   },
   "ReservationPage": {
+    "ToPayment": "Continue To Payment",
     "ConfirmAndPay": "Confirm And Pay",
     "YourTripDetails": "Your Trip Details",
     "CancelBooking": "Cancel Booking",
@@ -286,6 +288,7 @@
   },
   "Payment": {
     "PayoutMethods": "Payout Methods",
+    "PayAndConfirm": "Pay and Confirm",
     "Back": "Back",
     "GetPaidDays": "Get paid in 3-5 business days",
     "WeekendsAndHolidats": "Weekends and holidays may extend processing time No fees",
@@ -613,7 +616,19 @@
     "Hello": "Hello",
     "SAR": "SAR"
   },
-  "CalendarPager": {
-    "Calendar": "Calendar"
+  "CalendarPage": {
+    "Calendar": "Calendar",
+    "Manage": "Manage",
+    "ManageDates": "Manage Dates",
+    "Note": "Note",
+    "SpecialDaysPrice": "Special Days Price",
+    "SelectedDates": "Selected Dates",
+    "Block": "Block",
+    "Special": "Special",
+    "Available": "Available",
+    "SetSpecialPrice": "Set Special Price",
+    "Unblock": "Unblock",
+    "PrivateNote": "Private Note",
+    "Add": "Add"
   }
 }

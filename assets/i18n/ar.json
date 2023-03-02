@@ -30,7 +30,8 @@
     "Female": "أنثى",
     "notFound": "PAGE NOT FOUND",
     "notFoundDesc": "Sorry, the page you're looking for doesn't exist. If you think something is broken, report a problem.",
-    "goHome": "GO TO HOME"
+    "goHome": "GO TO HOME",
+    "ID": "معرف الوحدة"
   },
   "StaticPages": {
     "termsAndConditions": "الأحكام والشروط",
@@ -183,6 +184,7 @@
     "ShowAllReviews": "اعرض جميع التقييمات"
   },
   "ReservationPage": {
+    "ToPayment": "متابعة إلى الدفع",
     "ConfirmAndPay": "اكد و ادفع",
     "YourTripDetails": "تفاصيل رحلتك",
     "CancelBooking": "إلغاء الحجز",
@@ -279,6 +281,7 @@
   },
   "Payment": {
     "PayoutMethods": "طرق الدفع",
+    "PayAndConfirm": "قم بالدفع",
     "Back": "رجوع",
     "GetPaidDays": "احصل على الأموال في 3-5 أيام عمل",
     "WeekendsAndHolidats": "قد تطيل عطلات نهاية الأسبوع والعطلات وقت المعالجة بدون رسوم",
