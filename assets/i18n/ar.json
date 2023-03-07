@@ -181,7 +181,14 @@
   "PlaceDetailsPage": {
     "SimilarPlaces": "أماكن مشابهه",
     "Location": "الموقع",
-    "ShowAllReviews": "اعرض جميع التقييمات"
+    "ShowAllReviews": "اعرض جميع التقييمات",
+    "Draft": "مسودة",
+    "PendingApproval": " في الإنتظار الموافقة",
+    "Published": "نشرت",
+    "Unlisted": "غير مدرج",
+    "Blocked": "محظور",
+    "Deleted": "محذوف",
+    "Rejected": "مرفوض"
   },
   "ReservationPage": {
     "ToPayment": "متابعة إلى الدفع",

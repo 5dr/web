@@ -180,7 +180,14 @@
   "PlaceDetailsPage": {
     "SimilarPlaces": "Similar Places For Stay",
     "Location": "Location",
-    "ShowAllReviews": "Show All Reviews"
+    "ShowAllReviews": "Show All Reviews",
+    "Draft": "Draft",
+    "PendingApproval": "Pending Approval",
+    "Published": "Published",
+    "Unlisted": "Unlisted",
+    "Blocked": "Blocked",
+    "Deleted": "Deleted",
+    "Rejected": "Rejected"
   },
   "ReservationPage": {
     "ToPayment": "Continue To Payment",
