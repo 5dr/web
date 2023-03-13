@@ -28,10 +28,11 @@
     "Address": "عنوان",
     "Male": "ذكر",
     "Female": "أنثى",
-    "notFound": "PAGE NOT FOUND",
-    "notFoundDesc": "Sorry, the page you're looking for doesn't exist. If you think something is broken, report a problem.",
-    "goHome": "GO TO HOME",
-    "ID": "معرف الوحدة"
+    "notFound": "الصفحة غير موجودة",
+    "notFoundDesc": "عذرا ، الصفحة التي تبحث عنها غير موجودة. إذا كنت تعتقد أن شيئًا ما معطل ، فأبلغ عن مشكلة.",
+    "goHome": "اذهب إلى الصفحة الرئيسية",
+    "ID": "معرف الوحدة",
+    "copyLinkSuccessfully": "تم نسخ الرابط بنجاح"
   },
   "StaticPages": {
     "termsAndConditions": "الأحكام والشروط",
@@ -215,7 +216,13 @@
     "Confirm": "اكد و ادفع",
     "LearnMore": "تعلم أكثر",
     "PriceDetails": "تفاصيل السعر",
-    "Total": "المجموع"
+    "Total": "المجموع",
+    "Accept": "وافق",
+    "Reject": "رفض",
+    "Accepted": "قبلت",
+    "Rejected": "مرفوض",
+    "ReasonRefuse": "رفض الحجز",
+    "Reason": "سبب"
   },
   "ReviewsPage": {
     "Reviews": "جميع المراجعات",
@@ -225,6 +232,7 @@
     "whishlist": "قائمة الرغبات"
   },
   "Profile": {
+    "ProfileImg": "الصورة الشخصية",
     "ChangePassword": "تغيير كلمة المرور",
     "PersonalInfo": "المعلومات الشخصية",
     "Password": "كلمة المرور",
@@ -284,7 +292,8 @@
     "Details": "تفاصيل",
     "ShowBookingDetails": "إظهار تفاصيل الحجز",
     "HideBookingDetails": "إخفاء تفاصيل الحجز",
-    "PaymentDetails": "بيانات الدفع"
+    "PaymentDetails": "بيانات الدفع",
+    "SAR": "ريال سعودي"
   },
   "Payment": {
     "PayoutMethods": "طرق الدفع",
@@ -568,7 +577,9 @@
     "PublishListing": "ينشر",
     "Bedroom": "غرفة نوم",
     "Upload": "رفع",
-    "SAR": "ريال سعودي"
+    "SAR": "ريال سعودي",
+    "SpecificDaysPricing": "تسعير أيام محددة",
+    "HerneLodge": "Herne Lodge 1 - A mountain"
   },
   "PlaceDetails": {
     "BookingDetails": "تفاصيل الحجز",
@@ -610,6 +621,23 @@
     "TotalPrice": "السعر الإجمالي",
     "Traveller": "المسافر",
     "Hello": "مرحبا",
-    "SAR": "ريال سعودي"
+    "SAR": "ريال سعودي",
+    "NormalDays": "أيام عادية",
+    "WeekendDays": "أيام عطلة نهاية الأسبوع"
+  },
+  "CalendarPage": {
+    "Calendar": "تقويم",
+    "Manage": "يدير",
+    "ManageDates": "إدارة التواريخ",
+    "Note": "ملحوظة",
+    "SpecialDaysPrice": "سعر الأيام الخاصة",
+    "SelectedDates": "تواريخ مختارة",
+    "Block": "حاجز",
+    "Special": "خاص",
+    "Available": "متاح",
+    "SetSpecialPrice": "تحديد سعر خاص",
+    "Unblock": "رفع الحظر",
+    "PrivateNote": "ملاحظة خاصة",
+    "Add": "أضافه"
   }
 }

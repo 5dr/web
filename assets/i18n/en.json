@@ -31,7 +31,8 @@
     "notFound": "PAGE NOT FOUND",
     "notFoundDesc": "Sorry, the page you're looking for doesn't exist. If you think something is broken, report a problem.",
     "goHome": "GO TO HOME",
-    "ID": "ID"
+    "ID": "ID",
+    "copyLinkSuccessfully": "Link Copy Successfully"
   },
   "StaticPages": {
     "termsAndConditions": "Terms And Conditions",
@@ -175,7 +176,8 @@
     "Apply": "Apply",
     "Cancel": "Cancel",
     "ClearAll": "Clear All",
-    "CancellationFlexibility": "Cancellation Flexibility"
+    "CancellationFlexibility": "Cancellation Flexibility",
+    "Facilities": "Facilities"
   },
   "PlaceDetailsPage": {
     "SimilarPlaces": "Similar Places For Stay",

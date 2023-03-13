@@ -1,0 +1,63 @@
+// tel-input style
+
+.iti--allow-dropdown input[type="tel"] {
+  padding-right: 0;
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  margin-block-end: 10px;
+}
+
+.iti {
+  display: block;
+
+  & * {
+    font-family: "Poppins";
+  }
+}
+
+.dropdown-menu.country-dropdown.show {
+  transform: translateY(-87px) !important;
+  width: 100%;
+}
+
+.iti--allow-dropdown .iti__flag-container {
+  display: block;
+  width: 100%;
+}
+
+.iti__country-list {
+  overflow-x: hidden;
+}
+
+.iti__country-list::-webkit-scrollbar {
+  width: 5px;
+  background-color: #ccc;
+}
+
+.iti__country-list::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 8px;
+}
+
+.iti input#country-search-box:focus {
+  border: 0;
+  outline: 0;
+}
+
+.iti input#country-search-box {
+  padding: 8px 6px;
+}
+
+.iti__country {
+  padding: 12px 10px;
+  border-block-end: 1px solid rgb(231, 230, 230);
+}
+
+.iti__divider {
+  border-bottom: 0;
+}
