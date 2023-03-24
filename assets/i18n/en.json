@@ -233,6 +233,7 @@
   },
   "Profile": {
     "ProfileImg": "Profile Image",
+    "LegalName": "Legal Name",
     "ChangePassword": "Change Password",
     "PersonalInfo": "Personal Info",
     "Password": "Password",

@@ -96,7 +96,7 @@
     "Review": "بانتظار التقييم",
     "Cancelled": "ألغيت",
     "help": "المساعدة ؟",
-    "SAR": "ريال سعودي",
+    "SAR": "ريال س",
     "Amount:": "المبلغ المدفوع:",
     "BookAgain": "احجز مرة أخرى",
     "ChatHost": "الدردشة مع المضيف",
@@ -233,6 +233,7 @@
   },
   "Profile": {
     "ProfileImg": "الصورة الشخصية",
+    "LegalName": "الإسم الرسمى",
     "ChangePassword": "تغيير كلمة المرور",
     "PersonalInfo": "المعلومات الشخصية",
     "Password": "كلمة المرور",
@@ -293,7 +294,7 @@
     "ShowBookingDetails": "إظهار تفاصيل الحجز",
     "HideBookingDetails": "إخفاء تفاصيل الحجز",
     "PaymentDetails": "بيانات الدفع",
-    "SAR": "ريال سعودي"
+    "SAR": "ريال س"
   },
   "Payment": {
     "PayoutMethods": "طرق الدفع",
@@ -313,7 +314,7 @@
     "Credit": "رقم بطاقة الائتمان",
     "Exp": "تاريخ الانتهاء",
     "CVV": "CVV",
-    "SAR": "ريال سعودي"
+    "SAR": "ريال س"
   },
   "ListingPage": {
     "Listing": "القوائم",
@@ -322,10 +323,10 @@
     "SelectBank": "حدد البنك",
     "Continue": "استمر",
     "Upload": "رفع",
-    "SAR": "ريال سعودي",
+    "SAR": "ريال س",
     "AddPictures": "أضف صورًا للجزء التالف",
     "InsuranceJustification": "تبرير التأمين",
-    "MaxAmount": "الحد الأقصى: 500 ريال سعودي",
+    "MaxAmount": "الحد الأقصى: 500 ريال س",
     "ReleaseInsurance": "الافراج عن التأمين",
     "ClaimInsurance": "تعويض من شركة التأمين",
     "Property": "العقار",
@@ -577,7 +578,7 @@
     "PublishListing": "ينشر",
     "Bedroom": "غرفة نوم",
     "Upload": "رفع",
-    "SAR": "ريال سعودي",
+    "SAR": "ريال س",
     "SpecificDaysPricing": "تسعير أيام محددة",
     "HerneLodge": "Herne Lodge 1 - A mountain"
   },
@@ -621,7 +622,7 @@
     "TotalPrice": "السعر الإجمالي",
     "Traveller": "المسافر",
     "Hello": "مرحبا",
-    "SAR": "ريال سعودي",
+    "SAR": "ريال س",
     "NormalDays": "أيام عادية",
     "WeekendDays": "أيام عطلة نهاية الأسبوع"
   },
