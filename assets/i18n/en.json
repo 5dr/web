@@ -32,7 +32,8 @@
     "notFoundDesc": "Sorry, the page you're looking for doesn't exist. If you think something is broken, report a problem.",
     "goHome": "GO TO HOME",
     "ID": "ID",
-    "copyLinkSuccessfully": "Link Copy Successfully"
+    "copyLinkSuccessfully": "Link Copy Successfully",
+    "SendMassegeRoomz": "Send Message Roomz"
   },
   "StaticPages": {
     "termsAndConditions": "Terms And Conditions",
@@ -85,7 +86,8 @@
     "CopyrightText": "Copyright @ 2022 Roomz",
     "Terms": "Terms & Conditions",
     "Privacy": "Privacy Policy",
-    "ResendOTP": "Resend OTP"
+    "ResendOTP": "Resend OTP",
+    "AddNewPassword": "Add New Password"
   },
   "Booking": {
     "Booking": "Booking",
@@ -95,13 +97,25 @@
     "Pending": "Pending ",
     "Review": "Pending Review ",
     "Cancelled": "Cancelled",
-    "help": "help?",
+    "help": "help",
     "SAR": "SAR",
     "Amount:": "Amount Paid:",
     "BookAgain": "Book Again",
     "ChatHost": "Chat with Host",
     "LeaveReview": "Leave a Review",
-    "guests": "guests"
+    "guests": "guests",
+    "Message": "Message",
+    "booked": "Booked",
+    "pending": "Pending",
+    "rejected": "Rejected",
+    "pendingReview": "Pending Review",
+    "paymentPending": "Payment Pending",
+    "checkedIn": "Checked In",
+    "checkedOut": "Checked Out",
+    "successFull": "Successful",
+    "cancelled": "Cancelled",
+    "notBooked": "Not Booked",
+    "finished": "Finished"
   },
   "Navbar": {
     "Home": "Home",
@@ -222,11 +236,99 @@
     "Accepted": "Accepted",
     "Rejected": "Rejected",
     "ReasonRefuse": "Reject Booking",
-    "Reason": "Reason"
+    "Reason": "Reason",
+    "RateHost": "Review Host",
+    "RateTraveller": "Review Traveller",
+    "Communication": "Communication",
+    "Accuracy": "Accuracy of Listing",
+    "Cleanliness": "Cleanliness",
+    "CheckInProcess": "Check-in Process",
+    "Value": "Value",
+    "OverallExperience": "Overall Experience",
+    "CommunicationStar": {
+      "straOne": "Host was unresponsive or difficult to communicate with.",
+      "starTwo": "Host was somewhat responsive, but communication was not clear or friendly.",
+      "starThree": "Host was responsive and provided clear and friendly communication.",
+      "starFour": "Host went above and beyond in communication, providing helpful tips and recommendations.",
+      "starFive": "Host was exceptional in communication, anticipating guests' needs and providing outstanding service."
+    },
+    "CommunicationTravellerStar": {
+      "straOne": "Guest was unresponsive or difficult to communicate with.",
+      "starTwo": "Guest was somewhat responsive, but communication was not clear or courteous.",
+      "starThree": "Guest was responsive and provided clear and courteous communication.",
+      "starFour": "Guest went above and beyond in communication, providing helpful updates and feedback.",
+      "starFive": "Guest was exceptional in communication, anticipating host's needs and providing outstanding service."
+    },
+    "AccuracyStar": {
+      "straOne": "Listing was significantly inaccurate or misleading.",
+      "starTwo": "Listing had some inaccuracies or omissions.",
+      "starThree": "Listing was generally accurate, but had minor discrepancies.",
+      "starFour": "Listing was very accurate and provided a good representation of the property.",
+      "starFive": "Listing was extremely detailed and accurate, leaving no surprises for guests."
+    },
+    "CleanlinessStar": {
+      "straOne": "Rental was dirty or unsanitary.",
+      "starTwo": "Rental was somewhat clean, but had noticeable issues.",
+      "starThree": "Rental was generally clean, but could have been better.",
+      "starFour": "Rental was very clean and well-maintained.",
+      "starFive": "Rental was spotless and exceeded expectations."
+    },
+    "CleanlinessTravellerStar": {
+      "straOne": "Rental was left in a very dirty or unsanitary condition.",
+      "starTwo": "Rental was somewhat clean, but required significant cleaning after the guest's departure.",
+      "starThree": "Rental was generally clean, but could have been better.",
+      "starFour": "Rental was very clean and well-maintained after the guest's departure.",
+      "starFive": " Rental was left in an exceptionally clean and tidy condition."
+    },
+    "CheckInProcessStar": {
+      "straOne": "Check-in process was confusing or difficult.",
+      "starTwo": "Check-in process was somewhat complicated or time-consuming.",
+      "starThree": "Check-in process was straightforward and easy to follow.",
+      "starFour": "Check-in process was very smooth and efficient.",
+      "starFive": "Check-in process was exceptional, with personalized touches and attention to detail."
+    },
+    "CheckOutProcessStar": {
+      "straOne": "Guest did not follow the host's check-out procedures, causing significant problems or damage.",
+      "starTwo": "Guest had some issues or challenges with the check-out process, but they were resolved.",
+      "starThree": "Guest generally followed the host's check-out procedures.",
+      "starFour": "Guest was exceptional at following the host's check-out procedures, going above and beyond what was required.",
+      "starFive": "Guest was a model guest, following all the host's check-out procedures perfectly."
+    },
+    "ValueStar": {
+      "straOne": "Rental was overpriced and did not provide good value.",
+      "starTwo": "Rental was somewhat overpriced for what was offered.",
+      "starThree": "Rental was priced appropriately for the amenities and location.",
+      "starFour": "Rental provided good value for the price.",
+      "starFive": "Rental was an excellent value, exceeding expectations."
+    },
+    "OverallExperienceStar": {
+      "straOne": "Stay was very disappointing and unpleasant.",
+      "starTwo": "Stay had some issues or problems that detracted from the experience.",
+      "starThree": "Stay was generally satisfactory, but had some areas for improvement.",
+      "starFour": "Stay was very enjoyable and met expectations.",
+      "starFive": "Stay was exceptional, with outstanding service and an unforgettable experience."
+    },
+    "OverallExperienceTravellerStar": {
+      "straOne": "Stay was very disappointing and unpleasant due to guest's behavior or actions.",
+      "starTwo": "Stay had some issues or problems caused by the guest, but they were resolved.",
+      "starThree": "Stay was generally satisfactory, but had some areas for improvement related to the guest's behavior or actions.",
+      "starFour": "Stay was very enjoyable and met expectations despite some areas for improvement related to the guest's behavior or actions.",
+      "starFive": "Stay was exceptional, with no issues related to the guest's behavior or actions."
+    },
+    "AdherenceStar": {
+      "straOne": "Guest did not follow the host's rules or restrictions, causing significant problems or damage.",
+      "starTwo": "Guest had some issues or challenges adhering to the host's rules, but they were resolved.",
+      "starThree": "Guest generally followed the host's rules and restrictions.",
+      "starFour": "Guest was exceptional at following the host's rules and restrictions, going above and beyond what was required.",
+      "starFive": "Guest was a model guest, following all the host's rules and restrictions perfectly."
+    },
+    "AdherenceRules": "Adherence to rules",
+    "CheckOutProcess": "Check-out process"
   },
   "ReviewsPage": {
     "Reviews": "All Reviews",
-    "review": "Review"
+    "review": "Review",
+    "ReviewsHost": "Reviews Host"
   },
   "Whishlist": {
     "whishlist": "Whishlist"
@@ -414,7 +516,7 @@
     "Save": "Save",
     "LocalLawsAgree": "I agree to local laws",
     "Edit": "Edit",
-    "MinMaxError": "max stay value can't be more than min stay value",
+    "MinMaxError": "max stay value can't be less than min stay value",
     "MinMaxValueError": "min stay value can't be 0 or more than 99 and max stay value can't be 0 or more than 100",
     "NonFlexible": "Non Flexible",
     "PreviewListing": "Preview listing",
