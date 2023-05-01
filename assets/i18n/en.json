@@ -420,6 +420,7 @@
   },
   "ListingPage": {
     "Listing": "Listings",
+    "AllProperties": "All properties",
     "CreateListing": "Create Listing",
     "BankName": "Bank Name",
     "SelectBank": "Select Bank",
