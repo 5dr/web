@@ -33,7 +33,9 @@
     "goHome": "اذهب إلى الصفحة الرئيسية",
     "ID": "معرف الوحدة",
     "copyLinkSuccessfully": "تم نسخ الرابط بنجاح",
-    "SendMassegeRoomz": "إرسال رسالة Roomz"
+    "SendMassegeRoomz": "إرسال رسالة إلى Roomz",
+    "NoReviewsFound": "لا يوجد تقييمات بعد!",
+    "Photo": "صورة"
   },
   "StaticPages": {
     "termsAndConditions": "الأحكام والشروط",
@@ -317,7 +319,10 @@
   "ReviewsPage": {
     "Reviews": "جميع المراجعات",
     "review": "تقييم",
-    "ReviewsHost": "تقييمات المضيف"
+    "ReviewsHost": "تقييمات المضيف",
+    "UserReviews": "التقييمات",
+    "ViewAll": "عرض الكل",
+    "Properties": "عقارات أخرى"
   },
   "Whishlist": {
     "whishlist": "قائمة الرغبات"

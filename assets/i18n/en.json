@@ -33,7 +33,9 @@
     "goHome": "GO TO HOME",
     "ID": "ID",
     "copyLinkSuccessfully": "Link Copy Successfully",
-    "SendMassegeRoomz": "Send Message Roomz"
+    "SendMassegeRoomz": "Send Message Roomz",
+    "NoReviewsFound": "There are no reviews yet",
+    "Photo": "Photo"
   },
   "StaticPages": {
     "termsAndConditions": "Terms And Conditions",
@@ -245,6 +247,8 @@
     "CheckInProcess": "Check-in Process",
     "Value": "Value",
     "OverallExperience": "Overall Experience",
+    "Feedback": "Feedback",
+    "Rate": "Rate",
     "CommunicationStar": {
       "straOne": "Host was unresponsive or difficult to communicate with.",
       "starTwo": "Host was somewhat responsive, but communication was not clear or friendly.",
@@ -328,7 +332,12 @@
   "ReviewsPage": {
     "Reviews": "All Reviews",
     "review": "Review",
-    "ReviewsHost": "Reviews Host"
+    "ReviewsHost": "Reviews Host",
+    "ReviewsTraveller": "Reviews Traveller",
+    "notFoundReviews": "Not Found Reviews",
+    "UserReviews": "Reviews",
+    "ViewAll": "View All",
+    "Properties": "Other Properties"
   },
   "Whishlist": {
     "whishlist": "Whishlist"
