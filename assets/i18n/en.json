@@ -595,6 +595,8 @@
     "ModeratePointOne": "Free cancellation until 5 days before check-in (time shown in the confirmation email).",
     "ModeratePointTwo": "After that, cancel before check-in and get a 50% refund, minus the first night and service fee.",
     "Amenities": "What amenities will you offer?",
+    "AmenitiesSafety": "Safety Amenities",
+    "AmenitiesSpace": "Space Amenities",
     "DescAmenities": "You will be able to add more amenities after you publish your listing.",
     "DescSmokeAlarm": "Check your local laws, which may require a working smoke detector in every room",
     "CarbonAlarm": "Carbon monoxide alarm",
